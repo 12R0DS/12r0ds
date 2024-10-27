@@ -21,6 +21,7 @@
 <p align="center">—   —</p>
 <dl>
   <dt><b>DNI</b></dt>
+  <dd>- ROLEPLAYERS please dni</dd>
   <dd>- 14 and under</dd>
   <dd>- being sexual</dd>
   <dd>- if you're constantly negative, you guys are bummers</dd>
