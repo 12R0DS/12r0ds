@@ -1,4 +1,4 @@
-<p align="center">︿  ︿</p>
+<img src="https://github.com/user-attachments/assets/bee46dba-e26a-4660-867f-dcae0ba20251" align="center" width="100%" height="auto">
 <div align="center">
   <img src="https://github.com/user-attachments/assets/025f25db-35c8-4ea1-a51d-780d54089a90" width="12%" height="auto" float="left">
   <img src="https://github.com/user-attachments/assets/b64c42e7-cbde-4dbb-a14b-fb51ea090052" width="12%" height="auto">
@@ -36,4 +36,4 @@
   <img src="https://github.com/user-attachments/assets/a1ffd9b5-32de-4dc2-ac6d-18f832f45ae8" width="32%" height="auto">
   <img src="https://github.com/user-attachments/assets/96657c0b-161d-49df-90dc-dbb3b088f422" width="32%" height="auto">
   <img src="https://github.com/user-attachments/assets/ccf530b0-92e4-44ee-9837-73deb11dff80" width="32%" height="auto">
-<p align="center">﹀  ﹀</p>
+<img src="https://github.com/user-attachments/assets/bee46dba-e26a-4660-867f-dcae0ba20251" align="center" width="100%" height="auto">
