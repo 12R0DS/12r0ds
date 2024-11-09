@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/bee46dba-e26a-4660-867f-dcae0ba20251" align="center" width="100%" height="auto">
 <div align="center">
   <img src="https://github.com/user-attachments/assets/025f25db-35c8-4ea1-a51d-780d54089a90" width="12%" height="auto" float="left">
-  <img src="https://github.com/user-attachments/assets/b64c42e7-cbde-4dbb-a14b-fb51ea090052" width="12%" height="auto">
+  <img src="https://github.com/user-attachments/assets/27d49cf8-61ea-4f32-abce-ebf23166c843" width="12%" height="auto">
   <img src="https://github.com/user-attachments/assets/54436705-8122-4421-8993-117b875e10d0" width="12%" height="auto">
   <img src="https://github.com/user-attachments/assets/df9a4e2f-49e7-46a9-8aa9-e88e10ff5856" width="12%" height="auto">
   <img src="https://github.com/user-attachments/assets/27ab4d39-f090-411b-8518-210b2c15555a" width="12%" height="auto">
