@@ -3,14 +3,14 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/025f25db-35c8-4ea1-a51d-780d54089a90" width="12%" height="auto" float="left">
-  <img src="https://github.com/user-attachments/assets/27d49cf8-61ea-4f32-abce-ebf23166c843" width="12%" height="auto">
-  <img src="https://github.com/user-attachments/assets/f6204e49-a5a8-458b-8ced-f4ce2de374d0" width="12%" height="auto">
-  <img src="https://github.com/user-attachments/assets/60dc0dd8-6183-438a-9006-460222f9bcff" width="12%" height="auto">
-  <img src="https://github.com/user-attachments/assets/d9d2e467-cc17-4283-8442-25ec71e80fa9" width="12%" height="auto">
-  <img src="https://github.com/user-attachments/assets/ef1db7d4-f584-4f16-927e-b9940d17dbcb" width="12%" height="auto">
+  <img src="https://github.com/user-attachments/assets/025f25db-35c8-4ea1-a51d-780d54089a90" width="11%" height="auto" float="left">
+  <img src="https://github.com/user-attachments/assets/27d49cf8-61ea-4f32-abce-ebf23166c843" width="13%" height="auto">
+  <img src="https://github.com/user-attachments/assets/f6204e49-a5a8-458b-8ced-f4ce2de374d0" width="11%" height="auto">
+  <img src="https://github.com/user-attachments/assets/60dc0dd8-6183-438a-9006-460222f9bcff" width="11%" height="auto">
+  <img src="https://github.com/user-attachments/assets/d9d2e467-cc17-4283-8442-25ec71e80fa9" width="11%" height="auto">
+  <img src="https://github.com/user-attachments/assets/ef1db7d4-f584-4f16-927e-b9940d17dbcb" width="11%" height="auto">
   <img src="https://github.com/user-attachments/assets/98995313-e357-491b-8261-a74a29bdd6fe" width="12%" height="auto">
-  <img src="https://github.com/user-attachments/assets/e47bb888-64f3-46a3-ae79-0de961f48365" width="12%" height="auto">
+  <img src="https://github.com/user-attachments/assets/e47bb888-64f3-46a3-ae79-0de961f48365" width="11%" height="auto">
 </div>
 <div align="center">
   <h3><b><i>corner ,', tartarus</i></b></h3>
