@@ -10,7 +10,7 @@
   <img src="https://github.com/user-attachments/assets/d9d2e467-cc17-4283-8442-25ec71e80fa9" width="12%" height="auto">
   <img src="https://github.com/user-attachments/assets/ef1db7d4-f584-4f16-927e-b9940d17dbcb" width="12%" height="auto">
   <img src="https://github.com/user-attachments/assets/98995313-e357-491b-8261-a74a29bdd6fe" width="12%" height="auto">
-  <img src="https://github.com/user-attachments/assets/2a6d7410-82ac-47d1-8f3d-6094e54caeed" width="12%" height="auto">
+  <img src="https://github.com/user-attachments/assets/e47bb888-64f3-46a3-ae79-0de961f48365" width="12%" height="auto">
 </div>
 <div align="center">
   <h3><b><i>corner ,', tartarus</i></b></h3>
