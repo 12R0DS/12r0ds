@@ -12,6 +12,10 @@
 <div align="center">
   <h3><b><i>corner ,', tartarus</i></b></h3>
   <br>
+  <div align="center">
+     <img src="https://visitor-badge.laobi.icu/badge?page_id=12r0ds.visitor-badge&left_color=blue&right_color=green&left_text=:-3">
+  </div>
+  <br>
   <p><i>,  any pronouns  ;  demi-aroace  ,</i></p>
   <p><i>i speak english, albanian and french, english is my best though</i></p>
   <p><i>whisper to interact only  +  c+h whenever in my user</i></p>
