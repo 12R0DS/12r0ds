@@ -21,7 +21,7 @@
      <img src="https://visitor-badge.laobi.icu/badge?page_id=12r0ds.visitor-badge&left_color=blue&right_color=green&left_text=:-3">
   </div>
   <br>
-  <p><i>,  any pronouns  ;  demi-aroace  ;  entj  ,</i></p>
+  <p><i>,  any pronouns  ;  <b>kosovar</b>  ;  entj  ,</i></p>
   <p><i>i speak english, albanian and french, english is my best though</i></p>
   <p><i>whisper to interact only  +  c+h whenever in my user</i></p>
   <p><i>i dont interact first in most occasions, but dont be scared to int</i></p>
