@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/025f25db-35c8-4ea1-a51d-780d54089a90" width="11%" height="auto" float="left">
   <a href="https://toyhou.se/24798062.mr-webpaint"><img src="https://github.com/user-attachments/assets/27d49cf8-61ea-4f32-abce-ebf23166c843" width="13%" height="auto"></a>
   <img src="https://github.com/user-attachments/assets/f6204e49-a5a8-458b-8ced-f4ce2de374d0" width="11%" height="auto">
-  <img src="https://github.com/user-attachments/assets/60dc0dd8-6183-438a-9006-460222f9bcff" width="11%" height="auto">
+  <img src="https://github.com/user-attachments/assets/d4ee7a1b-9157-4e08-bf16-f52e0a828b91" width="11%" height="auto">
   <img src="https://github.com/user-attachments/assets/d9d2e467-cc17-4283-8442-25ec71e80fa9" width="11%" height="auto">
   <img src="https://github.com/user-attachments/assets/e30a4d80-34e7-4c9c-b421-81f8d4b0acc3" width="11%" height="auto">
   <img src="https://github.com/user-attachments/assets/98995313-e357-491b-8261-a74a29bdd6fe" width="12%" height="auto">
@@ -21,20 +21,23 @@
      <img src="https://visitor-badge.laobi.icu/badge?page_id=12r0ds.visitor-badge&left_color=blue&right_color=green&left_text=:-3">
   </div>
   <br>
-  <p><i>,  any pronouns  ;  <b>kosovar</b>  ;  entj  ,</i></p>
-  <p><i>i speak english, albanian and french, english is my best though</i></p>
-  <p><i>whisper to interact only  +  c+h whenever in my user</i></p>
-  <p><i>i dont interact first in most occasions, but dont be scared to int</i></p>
-  <p><b><i>im very busy, im taking many busy classes and i am not online all the time</i></b></p>
+  <p><i>,  Any pronouns  ;  <b>Kosovar</b>  ;  ENTJ  ,</i></p>
+  <p><i>I speak English, Albanian and French, however English is my best</i></p>
+  <p><i>Whisper to interact only  +  C+H whenever in my user</i></p>
+  <p><i>I dont interact first in most occasions, but dont be scared to!</i></p>
+  <p><b><i>I'm very busy, I'm taking many busy classes and I am not online all the time</i></b></p>
 </div>
 <p align="center">—   —</p>
 <dl>
   <dt><b>DNI</b></dt>
   <dd>- ROLEPLAYERS please dni</dd>
   <dd>- 14 and under</dd>
-  <dd>- being sexual</dd>
-  <dd>- if you're constantly negative, you guys are bummers</dd>
+  <dd>- Being sexual</dd>
+  <dd>- If you're constantly negative, you guys are bummers</dd>
 </dl>
+<div align="center">
+  <h6>A few of these stamps I have made myself</h6>
+</div>
 <p align="center">—   —</p>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/33833cee-127e-4e8e-a120-763b35d582e1" width="11%" height="auto" float="left">
