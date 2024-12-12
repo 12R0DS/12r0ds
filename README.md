@@ -32,7 +32,7 @@
   <dt><b>DNI</b></dt>
   <dd>- ROLEPLAYERS please dni</dd>
   <dd>- 14 and under</dd>
-  <dd>- Being sexual</dd>
+  <dd>- Being sexual towards me</dd>
   <dd>- If you're constantly negative, you guys are bummers</dd>
 </dl>
 <div align="center">
