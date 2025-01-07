@@ -21,7 +21,7 @@
      <img src="https://visitor-badge.laobi.icu/badge?page_id=12r0ds.visitor-badge&left_color=blue&right_color=green&left_text=:-3">
   </div>
   <br>
-  <p><i>,  Any pronouns  ;  <b>Kosovar</b>  ;  ENTJ  ,</i></p>
+  <p><i>,  Mirror pronouns  ;  <b>Kosovar</b>  ;  ENTJ  ,</i></p>
   <p><i>I speak English, Albanian and French, however English is my best</i></p>
   <p><i>Whisper to interact only  +  C+H whenever in my user</i></p>
   <p><i>I dont interact first in most occasions, but dont be scared to!</i></p>
