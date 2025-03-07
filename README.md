@@ -6,7 +6,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=12r0ds.visitor-badge&left_color=blue&right_color=green&left_text=:-3">
   </div>
   <div align="left">
-    <p>I use mirror pronouns, and I'm proudly taken by my partner <3</p>
+    <p>I use mirror pronouns, and I'm proudly taken by my <a href="https://github.com/RAZZERBLADE"> partner <3</a></p>
     <p>Kosovar, ENTJ , ENG/ALB/FR</p>
     <li>
       <ol>
