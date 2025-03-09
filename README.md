@@ -27,7 +27,7 @@
   </div>
   <div align="left">
     <ol>
-      constantly sexual, negative or rude; roleplayers and -14
+      constantly sexual, negative or rude; roleplayers, under 14, if ur main fixation is grocery gang. feel free to ask for the reasons of any of these
     </ol>
   </div>
 <br>
