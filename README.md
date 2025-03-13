@@ -30,6 +30,12 @@
       constantly sexual, negative or rude; roleplayers, under 14, if ur main fixation is grocery gang. feel free to ask for the reasons of any of these
     </ol>
   </div>
+  <div align="center">
+    <img src="https://nwac.ca/assets-images/LineBreak.png" width="100%" height="auto">
+  </div>
+  <div>
+    
+  </div>
 <br>
   <img src="https://github.com/user-attachments/assets/95056c1b-0654-47da-b4a5-c81bd8bd57ff" width="100%" height="auto">
   <img src="https://github.com/user-attachments/assets/e8fafee6-9cef-4881-99a4-25ec9cdf0bc1" width="100%" height="auto">
