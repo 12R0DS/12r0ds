@@ -11,10 +11,6 @@
      <img src="https://github.com/user-attachments/assets/e47bb888-64f3-46a3-ae79-0de961f48365" width="11%" height="auto">
   </div>
  <br>
-  <div align="center">
-     <img src="https://github.com/user-attachments/assets/d61e4832-f833-4750-91c3-5dc1fdfb767a" width="90%" height="auto">
-   </div>
- <br>
  <br>
      <img src="https://github.com/user-attachments/assets/54e234a7-2441-4ffa-b99f-13c1849920ff" width="35%" height="auto" maxwidth="100%" display="incline-block" align="right">
    <div align="center">
@@ -45,9 +41,6 @@
      <ol>
        constantly sexual, negative or rude; roleplayers, under 14, if ur main fixation is grocery gang. feel free to ask for the reasons of any of these
      </ol>
-   </div>
-   <div align="center">
-     <img src="https://nwac.ca/assets-images/LineBreak.png" width="100%" height="auto">
    </div>
    <div align="center">
     <img src="https://github.com/user-attachments/assets/33833cee-127e-4e8e-a120-763b35d582e1" width="11%" height="auto" float="left">
