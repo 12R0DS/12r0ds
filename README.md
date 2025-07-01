@@ -4,4 +4,6 @@
   <br>
   <br>
   <p><b>readme is a wip</b>, c+h okay when in my name, and always PLS w2i BUT I LOVE INTERACTIONSS</p>
+  <br>
+       <img src="https://visitor-badge.laobi.icu/badge?page_id=12r0ds.visitor-badge&left_color=red&right_color=yellow&left_text=*">
 </div>
