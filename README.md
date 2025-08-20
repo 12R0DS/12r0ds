@@ -9,5 +9,5 @@
   <br>
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjxgs32zel4r4mtvfoeaxvkde&cover_image=true&theme=novatorem&show_offline=true&background_color=c20000&interchange=false&bar_color=ffea80&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
   <br>
-       <img src="https://visitor-badge.laobi.icu/badge?page_id=12r0ds.visitor-badge&left_color=red&right_color=yellow&left_text=*">
+       <img src="https://visitor-badge.laobi.icu/badge?page_id=12r0ds.visitor-badge&left_color=lightgrey&right_color=lightblue&left_text=*">
 </div>
