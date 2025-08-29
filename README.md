@@ -3,7 +3,8 @@
   <img src="https://github.com/user-attachments/assets/0500f14b-bad9-4751-a3ed-0f78bbc67fac" width="70%" height="auto">
   <br>
   <br>
-  <p><b>readme is a wip</b>, c+h okay when in my name, and always PLS w2i BUT I LOVE INTERACTIONSS</p>
+  <p><b>corner / tenna, ant</b>   =   17, senior in hs, will be busy w/classes</p>
+  <p><b>C+H when in name, W2I (whisper to interact) ALWAYS,,, and preferred,,,. i am <i>always</i> just extremely nervous sometimes about ineractions, never think i think negatively i am always just nervous!!!</p>
   <p>i follow people with cool ponies, i dont expect follows back</p>
   <p><b>ROLEPLAY PLS DNI</b></p>
   <br>
