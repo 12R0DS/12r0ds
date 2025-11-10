@@ -7,14 +7,16 @@
   <img src="https://github.com/user-attachments/assets/c2f50039-0c8d-49af-85a4-662bfe672b30" width="11%" height="auto">
   <img src="https://github.com/user-attachments/assets/33ac767e-7f3d-465b-9ac9-dee95543fe47" width="11%" height="auto">
   <img src="https://github.com/user-attachments/assets/65bdff60-acad-44b8-a38a-cb4fc13773c2" width="11%" height="auto">
+  <br><br>
+      <img src="https://github.com/user-attachments/assets/76ae6c2b-a8f6-4421-b0e0-933d29b132d6" width="40%" height="auto" maxwidth="100%" display="incline-block" align="right">
   <br>
-  <img src="https://github.com/user-attachments/assets/76ae6c2b-a8f6-4421-b0e0-933d29b132d6" width="70%" height="auto">
   <br>
-  <br>
+  <div align="left" maxwidth="">
   <h2>CORNER , TENNA</h2>
   <p>W2I <b>ALWAYS</b>, i am a Kind of shy person 8>[ ^P] ; Cuddles whenever in my name! i prefer to be infront!</p>
   <p><b>ROLEPLAY PLS DNI</b>, i can NOT rp for the LIFE of me so please do not try to 8>[ ,^1]</p>
   <p><b>PLEASE do not copy my ponies</b>, i never even thought in my head this would occur but its a game to make your own ponies, inspo is OKAY!</p>
+  </div>
   <br>
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjxgs32zel4r4mtvfoeaxvkde&cover_image=true&theme=novatorem&show_offline=true&background_color=c20000&interchange=false&bar_color=ffea80&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
   <br>
