@@ -8,7 +8,7 @@
   <img src="https://github.com/user-attachments/assets/33ac767e-7f3d-465b-9ac9-dee95543fe47" width="11%" height="auto">
   <img src="https://github.com/user-attachments/assets/65bdff60-acad-44b8-a38a-cb4fc13773c2" width="11%" height="auto">
   <br>
-  <a href="https://x.com/diagonalk1tkat/status/1962510478971646368"><img src="https://github.com/user-attachments/assets/6c4bcadf-d1f8-43a9-967d-2de569df4bb0" width="70%" height="auto"></a>
+  <img src="https://github.com/user-attachments/assets/76ae6c2b-a8f6-4421-b0e0-933d29b132d6" width="70%" height="auto">
   <br>
   <br>
   <h2>CORNER , TENNA</h2>
