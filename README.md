@@ -1,23 +1,22 @@
 <div align="center">
-    <img src="" width="" height="auto">
+    <img src="https://github.com/user-attachments/assets/d37c8fa3-e5e8-456a-8cef-4bbc3748416e" width="100%" height="auto">
   <br><br>
   <div>
-    <img src="" width="13%" height="auto" maxwidth="25%" align="left">
-    <img src="" width="13%" height="auto" maxwidth="25%" align="left">
-    <img src="" width="13%" height="auto" maxwidth="25%" align="left">
-    <img src="" width="13%" height="auto" maxwidth="25%" align="left">
+    <img src="https://github.com/user-attachments/assets/c2a9b574-37af-447b-b432-bd56bc8abfcc" width="11%" height="auto" maxwidth="25%" align="left" display="inline-block">
+    <img src="https://github.com/user-attachments/assets/8ae18a15-88e2-4da1-8f64-68048728cd44" width="11%" height="auto" maxwidth="25%" align="left" display="inline-block">
+    <img src="https://github.com/user-attachments/assets/2d92596f-67fd-4f2f-b773-4c3872f65b11" width="11%" height="auto" maxwidth="25%" align="left" display="inline-block">
+    <img src="https://github.com/user-attachments/assets/6bb890c2-265f-4ff5-b49f-08fc2929677f" width="11%" height="auto" maxwidth="25%" align="left" display="inline-block">
   </div>
-    <img src="https://github.com/user-attachments/assets/1b23cf9a-f248-407a-8071-f7f4da85079b" width="40%" height="auto" maxwidth="100%" display="incline-block" align="right">
-  <br>
-  <br>
-  <div align="left" maxwidth="">
-    <br>
-  <h2>CORNER</h2>
+    <img src="https://github.com/user-attachments/assets/1b23cf9a-f248-407a-8071-f7f4da85079b" width="40%" height="auto" maxwidth="100%" display="inline-block" align="right">
+      <br><br><br>
+<div align="left">
+  <h3>CORNER</h3>
   <p>W2I, C+H ALWAYS!</p>
     <p>i will update this like RITE NOW </p>
   </div>
   <br>
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjxgs32zel4r4mtvfoeaxvkde&cover_image=true&theme=novatorem&show_offline=true&background_color=c20000&interchange=false&bar_color=ffea80&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
   <br>
+    <img src="https://github.com/user-attachments/assets/2f6c7594-239c-430b-9917-4bfcd90ae319" width="100%" height="auto">
 </div>
 
