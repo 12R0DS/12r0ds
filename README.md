@@ -15,9 +15,12 @@
     <p>$${\color{#CEEBE8} W2I \space ‧ \space C+H \space ENCOURAGED \space ! \space ‧ \space ONLY \space LIGHT \space INSPO}$$
 </p>
     <p>$${\color{#CEEBE8} -15 \space DNI \space , \space OTHERWISE \space I \space BLOCK \space IF \space YOU'RE \space RUDE \space \space  :-P}$$</p>
+    <p>$${\color{#CEEBE8} -15 \space DNI \space , \space OTHERWISE \space I \space BLOCK \space IF \space YOU'RE \space RUDE \space \space  :-P}$$</p>
+    <p>$${\color{#CEEBE8} -15 \space I'M \space OFTEN \space ZOOMED \space ALL \space THE \space WAY \space IN, \space I \space  DON'T \space USALLY \space CHECK \space MY \space SURROUNDINGS}$$</p>
+
   </div>
   <br><br>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjxgs32zel4r4mtvfoeaxvkde&cover_image=true&theme=novatorem&show_offline=true&background_color=c20000&interchange=false&bar_color=ffea80&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" align="right">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjxgs32zel4r4mtvfoeaxvkde&cover_image=true&theme=novatorem&show_offline=true&background_color=c20000&interchange=false&bar_color=ffea80&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" align="center">
   <br>
     <img src="https://github.com/user-attachments/assets/2f6c7594-239c-430b-9917-4bfcd90ae319" width="100%" height="auto">
 </div>
