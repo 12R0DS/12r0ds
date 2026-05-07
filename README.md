@@ -15,8 +15,7 @@
     <p>$${\color{#CEEBE8} W2I \space ‧ \space C+H \space ENCOURAGED \space ! \space ‧ \space ONLY \space LIGHT \space INSPO}$$
 </p>
     <p>$${\color{#CEEBE8} -15 \space DNI \space , \space OTHERWISE \space I \space BLOCK \space IF \space YOU'RE \space RUDE \space \space  :-P}$$</p>
-    <p>$${\color{#CEEBE8} -15 \space DNI \space , \space OTHERWISE \space I \space BLOCK \space IF \space YOU'RE \space RUDE \space \space  :-P}$$</p>
-    <p>$${\color{#CEEBE8} -15 \space I'M \space OFTEN \space ZOOMED \space ALL \space THE \space WAY \space IN, \space I \space  DON'T \space USALLY \space CHECK \space MY \space SURROUNDINGS}$$</p>
+    <p>$${\color{#CEEBE8}I'M \space OFTEN \space ZOOMED \space ALL \space THE \space WAY \space IN, \space I \space  DON'T \space USALLY \space CHECK \space MY \space SURROUNDINGS}$$</p>
 
   </div>
   <br><br>
