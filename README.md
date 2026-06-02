@@ -14,10 +14,7 @@
       <p>$${\color{#FFFFFF}be \ a \ bit \ direct \ with \space me, \ i \ never \ take \ offense \ and \ often \ misinterpret}$$</p>
       <p>$${\color{#FFFFFF}i \ usually \ like \ to \ be \space in \ the \ presence \ of \ people, \ and \ privately \ whisper}$$</p>
   <br>
-  <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=12r0ds.visitor-badge&left_color=black&right_color=orange&left_text=*">
-  <br>
-  <br>
   <br>
   <img src="https://github.com/user-attachments/assets/28842164-1f3a-4dbe-99db-7141c5d9a48a" width="25%" height="auto">
   <img src="https://github.com/user-attachments/assets/f1a32252-51ba-40ad-a2e5-603df77191b8" width="25%" height="auto">
