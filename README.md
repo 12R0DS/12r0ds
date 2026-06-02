@@ -1,26 +1,34 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/d37c8fa3-e5e8-456a-8cef-4bbc3748416e" width="100%" height="auto">
-  <br><br>
-  <div>
-    <img src="https://github.com/user-attachments/assets/c2a9b574-37af-447b-b432-bd56bc8abfcc" width="11%" height="auto" maxwidth="25%" align="left" display="inline-block">
-    <img src="https://github.com/user-attachments/assets/8ae18a15-88e2-4da1-8f64-68048728cd44" width="11%" height="auto" maxwidth="25%" align="left" display="inline-block">
-    <img src="https://github.com/user-attachments/assets/2d92596f-67fd-4f2f-b773-4c3872f65b11" width="11%" height="auto" maxwidth="25%" align="left" display="inline-block">
-    <img src="https://github.com/user-attachments/assets/6bb890c2-265f-4ff5-b49f-08fc2929677f" width="11%" height="auto" maxwidth="25%" align="left" display="inline-block">
-  </div>
-    <img src="https://github.com/user-attachments/assets/1b23cf9a-f248-407a-8071-f7f4da85079b" width="40%" height="auto" maxwidth="100%" display="inline-block" align="right">
-      <br><br><br>
-<div align="left">
-    <br>
-  <p>$${\color{#ED4242}  C \color {#EBA357} O \color {#D6D149} R \color {#5BE361} N \color {#5BBAE3} E \color {#6A65E6} R \color {#CA65E6} !}$$</p>
-    <p>$${\color{#CEEBE8} W2I \space ‧ \space C+H \space ENCOURAGED \space BUT \space DONT \space COVER \space ! \space ‧ \space ONLY \space LIGHT \space INSPO}$$
-</p>
-    <p>$${\color{#CEEBE8} -15 \space DNI \space , \space OTHERWISE \space I \space BLOCK \space IF \space YOU'RE \space RUDE \space \space  :-P}$$</p>
-    <p>$${\color{#CEEBE8}I'M \space OFTEN \space ZOOMED \space ALL \space THE \space WAY \space IN, \space I \space  DON'T \space USALLY \space CHECK \space MY \space SURROUNDINGS}$$</p>
-
-  </div>
-  <br><br>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjxgs32zel4r4mtvfoeaxvkde&cover_image=true&theme=novatorem&show_offline=true&background_color=c20000&interchange=false&bar_color=ffea80&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" align="center">
+      <img src="https://cdn.imgchest.com/files/34bb7939743f.png" width="40%" height="auto" maxwidth="100%" display="incline-block" align="right">
   <br>
-    <img src="https://github.com/user-attachments/assets/2f6c7594-239c-430b-9917-4bfcd90ae319" width="100%" height="auto">
-</div>
+  <br>
+  <div align="left" maxwidth="">
+<p>$${\color{#F78B65}corner,\ archie}$$</p>
+<br>
+      <p>$${\color{#FFFFFF}C+H \ whenever \ in \ my \ name}$$</p>
+      <p>$${\color{#FFFFFF}W2I \ always, \ i \ do \ not \ bite, \ and \ love \ meeting \ new \ people \ :-D}$$</p>
+      <p>$${\color{#F0E8BA}UNDER \ 15 \ preferrably \ DNI}$$</p>
+      <p>$${\color{#F0E8BA}i \ block \ freely, \ and \ don't \ mind \ old \ friends \ reconnecting}$$</p>
+      <p>$${\color{#F0E8BA}i \ often \ look \ around \ alot, \ if \ im \ staring \ Sorry}$$</p>
+      <p>$${\color{#F0E8BA}all \ my \ interests \ never \ go \ away, \ they \ only \  die \ down. \ ask \ me \ about \ them!}$$</p>
+      <p>$${\color{#F0E8BA}i \ never \ judge \ others \ interests, \ i \ apologize \ if \ i \ seem \ rude \ at \ times}$$</p>
+      <p>$${\color{#FFFFFF}be \ a \ bit \ direct \ with \space me, \ i \ never \ take \ offense \ and \ often \ misinterpret}$$</p>
+      <p>$${\color{#FFFFFF}i \ usually \ like \ to \ be \space in \ the \ presence \ of \ people, \ and \ privately \ whisper}$$</p>
 
+  </div>
+  <br>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjxgs32zel4r4mtvfoeaxvkde&cover_image=true&theme=novatorem&show_offline=true&background_color=c20000&interchange=false&bar_color=ffea80&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
+  <br>
+       <img src="https://visitor-badge.laobi.icu/badge?page_id=12r0ds.visitor-badge&left_color=black&right_color=orange&left_text=*">
+  <br>
+  <img src="https://github.com/user-attachments/assets/28842164-1f3a-4dbe-99db-7141c5d9a48a" width="25%" height="auto">
+  <img src="https://github.com/user-attachments/assets/f1a32252-51ba-40ad-a2e5-603df77191b8" width="25%" height="auto">
+  <img src="https://github.com/user-attachments/assets/5f8f140a-2d59-45e6-b449-612c96775b2f" width="25%" height="auto">
+  <img src="https://github.com/user-attachments/assets/9482a8d7-1dee-4870-b612-0670f329dfaf" width="25%" height="auto">
+  <img src="https://github.com/user-attachments/assets/6bf21153-6d61-4be5-acc7-738db1a21530" width="25%" height="auto">
+  <img src="https://github.com/user-attachments/assets/3712f4c5-9d6c-4d25-a241-63eb120da177" width="25%" height="auto">
+  <img width="267" height="25" alt="image" src="https://github.com/user-attachments/assets/6f701528-0dec-4d0f-957d-0591d2445ff2" />
+</div>
+<br><br><br>
+<div align="center">
+</div>
