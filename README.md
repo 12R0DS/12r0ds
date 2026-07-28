@@ -4,16 +4,20 @@
   <br>
 <p>$${\color{#F78B65}corner,\ archie}$$</p>
 <br>
-      <p>$${\color{#FFFFFF}C+H \ whenever \ in \ my \ name}$$</p>
-      <p>$${\color{#FFFFFF}W2I \ always, \ i \ do \ not \ bite, \ and \ love \ meeting \ new \ people \ :-D}$$</p>
-      <p>$${\color{#F0E8BA}UNDER \ 15 \ preferrably \ DNI}$$</p>
-      <p>$${\color{#F0E8BA}i \ block \ freely, \ and \ don't \ mind \ old \ friends \ reconnecting}$$</p>
-      <p>$${\color{#F0E8BA}i \ often \ look \ around \ alot, \ if \ im \ staring \ Sorry}$$</p>
-      <p>$${\color{#F0E8BA}all \ my \ interests \ never \ go \ away, \ they \ only \  die \ down. \ ask \ me \ about \ them!}$$</p>
-      <p>$${\color{#F0E8BA}i \ never \ judge \ others \ interests, \ i \ apologize \ if \ i \ seem \ rude \ at \ times}$$</p>
-      <p>$${\color{#FFFFFF}be \ a \ bit \ direct \ with \space me, \ i \ never \ take \ offense \ and \ often \ misinterpret}$$</p>
-      <p>$${\color{#FFFFFF}i \ usually \ like \ to \ be \space in \ the \ presence \ of \ people, \ and \ privately \ whisper}$$</p>
+      <p>C+H whenever in my name</p>
+      <p>W2I always, i do not bite, and love meeting new people :-D</p>
+      <p>UNDER 15 preferrably DNI</p>
+      <p>i block freely, and don't mind old friends reconnecting</p>
+      <p>i often look around alot, if im staring Sorry</p>
+      <p>all my interests never go away, they only die down. ask me about them!</p>
+      <p>i never judge others interests, i apologize if i seem rude at times</p>
+      <p>be a bit direct with me, i never take offense and often misinterpret</p>
+      <p>i usually like to be in the presence of people, and privately whisper</p>
   <br>
+      <br>
+      <br>
+      <br>
+      
 <img src="https://visitor-badge.laobi.icu/badge?page_id=12r0ds.visitor-badge&left_color=black&right_color=orange&left_text=*">
   <br>
   <img src="https://github.com/user-attachments/assets/28842164-1f3a-4dbe-99db-7141c5d9a48a" width="25%" height="auto">
