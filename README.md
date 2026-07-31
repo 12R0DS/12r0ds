@@ -33,7 +33,8 @@
       <br>
       <br>
 </div>
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjxgs32zel4r4mtvfoeaxvkde&cover_image=true&theme=novatorem&show_offline=true&background_color=c20000&interchange=false&bar_color=ffea80&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" display="incline-block" align="right" width="40%">
+<img src="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjxgs32zel4r4mtvfoeaxvkde&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false" display="incline-block" align="right" width="40%">
 
 <br><br><br>
 <div align="center">
