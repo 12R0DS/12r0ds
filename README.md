@@ -1,41 +1,11 @@
 <div align="center">
-      <img src="https://cdn.imgchest.com/files/34bb7939743f.png" width="40%" height="auto" maxwidth="100%" display="incline-block" align="right">
-  <br>
-  <br>
-<p>$${\color{#F78B65}corner,\ archie}$$</p>
-<br>
-      <p>C+H whenever in my name</p>
-      <p>W2I always, i do not bite, and love meeting new people :-D</p>
-      <p>UNDER 15 preferrably DNI</p>
-      <p>i block freely, and don't mind old friends reconnecting</p>
-      <p>i often look around alot, if im staring Sorry</p>
-      <p>all my interests never go away, they only die down. ask me about them!</p>
-      <p>i never judge others interests, i apologize if i seem rude at times</p>
-      <p>be a bit direct with me, i never take offense and often misinterpret</p>
-      <p>i usually like to be in the presence of people, and privately whisper</p>
-  <br>
-      <br>
-      <br>
-      <br>
-      
+      <img src="https://cdn.imgchest.com/files/1737590a757c.png" width="50%" height="auto" maxwidth="100%" display="incline-block" align="left">
+ <br><br><br>
+<p>will update soon</p>
+      <p>WHISPER TO INTERACT otherwise i really may not see ur message</p>
+      <p><a href="https://github.com/pt-fashion">pt-fashion's</a> and <a href="https://github.com/pt-hall-of-media">pt-hall-of-media's</a> banhammer, thank you!</p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=12r0ds.visitor-badge&left_color=black&right_color=orange&left_text=*">
   <br>
-  <img src="https://github.com/user-attachments/assets/28842164-1f3a-4dbe-99db-7141c5d9a48a" width="25%" height="auto">
-  <img src="https://github.com/user-attachments/assets/f1a32252-51ba-40ad-a2e5-603df77191b8" width="25%" height="auto">
-  <br>
-  <img src="https://github.com/user-attachments/assets/5f8f140a-2d59-45e6-b449-612c96775b2f" width="25%" height="auto">
-  <img src="https://github.com/user-attachments/assets/9482a8d7-1dee-4870-b612-0670f329dfaf" width="25%" height="auto">
-    <br>
-  <img src="https://github.com/user-attachments/assets/6bf21153-6d61-4be5-acc7-738db1a21530" width="25%" height="auto">
-  <img src="https://github.com/user-attachments/assets/3712f4c5-9d6c-4d25-a241-63eb120da177" width="25%" height="auto">
-    <br>
-  <img width="267" height="25" alt="image" src="https://github.com/user-attachments/assets/6f701528-0dec-4d0f-957d-0591d2445ff2" />
-      <br>
-      <br>
-</div>
-<img src="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjxgs32zel4r4mtvfoeaxvkde&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false" display="incline-block" align="right" width="40%">
 
-<br><br><br>
-<div align="center">
 </div>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjxgs32zel4r4mtvfoeaxvkde&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false" display="incline-block" align="right" width="40%">
