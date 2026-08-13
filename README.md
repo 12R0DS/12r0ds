@@ -3,7 +3,7 @@
  <br><br><br>
 <p>will update soon</p>
       <p>WHISPER TO INTERACT otherwise i really may not see ur message</p>
-      <p><a href="https://github.com/pt-fashion">pt-fashion's</a> and <a href="https://github.com/pt-hall-of-media">pt-hall-of-media's</a> banhammer, thank you!</p>
+      <p><a href="https://github.com/pt-fashion">pt-fashion's</a>, <a href="https://github.com/cosplaytown">cosplaytown's</a> and <a href="https://github.com/pt-hall-of-media">pt-hall-of-media's</a> banhammer, thank you!</p>
 <p><a href="https://rentry.co/mark101">rentry</a>⠀⠀<img src="https://visitor-badge.laobi.icu/badge?page_id=12r0ds.visitor-badge&left_color=black&right_color=indigo&left_text=*">⠀⠀<a href="https://corner.atabook.org/">atabook</a></p>
   <br>
 </div>
